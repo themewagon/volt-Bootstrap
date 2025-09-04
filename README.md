@@ -12,7 +12,7 @@
 
 Clone from GitHub 
 ```
-https://github.com/themewagon/polluxui-free-admin-template.git
+https://github.com/themewagon/volt-Bootstrap.git
 ```
 
 ## Author
